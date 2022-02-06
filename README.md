@@ -1,5 +1,5 @@
 # DIGITAL-LOGIC-DESIGN-AND-ANALYSIS
- DLDA [SEMESTER III]
+ DLDA & Digital Systems Lab [SEMESTER III]
  
   - [X] **[Syllabus](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS/blob/main/SE-Comps_CBCGS_Syllabus.pdf)**
   - [x] **DLDA - [Reference Books](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS/tree/main/Reference%20Books)**
