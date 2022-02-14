@@ -18,7 +18,3 @@
  - [Previous Question Papers](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/tree/main/Quesion%20Papers/Previous%20Quesion%20Papers)
  - [Solved Papers](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/tree/main/Quesion%20Papers/DLDA%20Solved%20Papers)
  
-
-
-
-
