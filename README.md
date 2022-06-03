@@ -1,5 +1,5 @@
 # DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB
- CSC302: DLDA & CSL301: DS LAB [SEMESTER III]
+ 👍🏻 CSC302: DLDA & CSL301: DS LAB [SEMESTER III]
  
  ---
 
@@ -26,3 +26,8 @@
 
  - [Solved Papers](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/tree/main/Quesion%20Papers/DLDA%20Solved%20Papers)
  
+---
+
+<p align="center"> <b> 👉🏻 Subject as a part of the 3rd Semester of Engineering @ University of Mumbai 👈🏻 <b> </p>
+ 
+<p align="center"><a href='https://github.com/Amey-Thakur/ACHIEVEMENTS#engineering', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
