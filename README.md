@@ -11,7 +11,7 @@
 [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-green.svg)](https://ternaengg.ac.in/)
 [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
 
-**A comprehensive academic resource for Digital Logic Design and Analysis (DLDA) and Digital System Laboratory, covering fundamental digital electronics, logic design, sequential circuits, and VHDL programming essential for computer engineering applications.**
+**A comprehensive academic resource for CSC302: Digital Logic Design and Analysis (DLDA) and CSL301: Digital System Lab. This repository covers fundamental digital electronics, logic design, sequential circuits, and VHDL programming, providing essential study materials for Semester III Computer Engineering at the University of Mumbai.**
 
 ---
 
