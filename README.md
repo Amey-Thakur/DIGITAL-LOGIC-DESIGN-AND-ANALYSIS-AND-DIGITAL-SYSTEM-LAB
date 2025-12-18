@@ -99,9 +99,9 @@ Study materials and planning resources for effective exam preparation:
 
 | Resource | Description |
 |----------|-------------|
-| 📝 [Syllabus Breakdown](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/My%20Preparation/Note_2019-09-26_13_54_38_159.png) | Detailed module-wise syllabus notes |
-| 📊 [Module Planning](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/My%20Preparation/Note_2019-09-26_14_10_59_854.png) | Topic organization and study schedule |
-| 📅 [Semester Timetable](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/My%20Preparation/Note_2019-09-26_14_17_40_056.png) | Class schedule and planning |
+| 📝 [Syllabus Breakdown](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/My%20Preparation/Syllabus%20Breakdown.png) | Detailed module-wise syllabus notes |
+| 📊 [Module Planning](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/My%20Preparation/Module%20Planning.png) | Topic organization and study schedule |
+| 📅 [Semester Timetable](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/My%20Preparation/Semester%20Timetable.png) | Class schedule and planning |
 | 🎯 [Examination Blueprint](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Blueprint%20(DLDA).png) | Question paper pattern and marking scheme |
 
 ---
