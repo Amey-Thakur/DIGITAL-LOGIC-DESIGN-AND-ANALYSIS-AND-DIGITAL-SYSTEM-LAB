@@ -63,17 +63,17 @@ This collection includes **16 comprehensive reference materials** covering all m
 |---|----------|------------|
 | 1 | [Codes](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/Codes.pdf) | Number systems and coding schemes |
 | 2 | [DLDA Easy Solutions](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20Easy%20Solutions.pdf) | Solved problems and examples |
-| 3 | [DLDA Notes - Part 1](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20NOTES%201.pdf) | Comprehensive topic coverage |
-| 4 | [DLDA Notes - Part 2](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20NOTES%202.pdf) | Boolean algebra and logic gates |
-| 5 | [DLDA Notes - Part 3](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20NOTES%203.pdf) | Combinational logic circuits |
-| 6 | [DLDA Notes - Part 4](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20NOTES%204.pdf) | Sequential logic design |
-| 7 | [DLDA Notes - Part 5](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20NOTES%205.pdf) | Memory and programmable logic |
-| 8 | [DLDA Notes - Part 6](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20NOTES%206.pdf) | Advanced digital systems |
+| 3 | [DLDA Notes - Part 1](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20Notes%201.pdf) | Comprehensive topic coverage |
+| 4 | [DLDA Notes - Part 2](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20Notes%202.pdf) | Boolean algebra and logic gates |
+| 5 | [DLDA Notes - Part 3](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20Notes%203.pdf) | Combinational logic circuits |
+| 6 | [DLDA Notes - Part 4](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20Notes%204.pdf) | Sequential logic design |
+| 7 | [DLDA Notes - Part 5](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20Notes%205.pdf) | Memory and programmable logic |
+| 8 | [DLDA Notes - Part 6](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20Notes%206.pdf) | Advanced digital systems |
 | 9 | [DLDA Techmax](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20Techmax.pdf) | Complete syllabus coverage |
 | 10 | [Digital Design (5th Edition) - Morris Mano](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/Digital%20Design%20(5th%20Edition)%20-%20Morris%20Mano.pdf) | Standard textbook reference |
 | 11 | [Error Detection and Correction](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/Error%20Detection%20and%20Correction.pdf) | Coding theory and error control |
 | 12 | [Modern Digital Electronics - RP Jain](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/Modern%20Digital%20Electronics%20-%20RP%20Jain.pdf) | Comprehensive digital electronics |
-| 13 | [Number System](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/Number%20system.pdf) | Binary arithmetic and conversions |
+| 13 | [Number System](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/Number%20System.pdf) | Binary arithmetic and conversions |
 | 14 | [Signed Binary Numbers](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/Signed%20Binary%20Numbers.pdf) | Signed number representations |
 | 15 | [Universal Gates NAND and NOR](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/Universal%20Gates%20NAND%20and%20NOR.pdf) | Universal gate implementations |
 | 16 | [VHDL](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/VHDL.pdf) | Hardware description language |
