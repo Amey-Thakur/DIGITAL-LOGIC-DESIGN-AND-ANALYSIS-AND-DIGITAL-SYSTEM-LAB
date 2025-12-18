@@ -149,9 +149,9 @@ This repository represents a comprehensive collection of study materials, refere
 
 ### Acknowledgments
 
-I am grateful to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Digital Logic Design and Analysis. Their dedication to teaching and commitment to student learning have been instrumental in my understanding of digital systems and logic design principles.
+Grateful acknowledgment is extended to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Digital Logic Design and Analysis. Their clear teaching and continued support helped me develop a strong understanding of digital systems and logic design concepts.
 
-I am also grateful to the mentors and peers who contributed to this learning experience.
+Special thanks are also extended to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
 ---
 
