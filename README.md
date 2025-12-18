@@ -1,10 +1,23 @@
+<div align="center">
+
+<img src="university-of-mumbai-logo.png" alt="University of Mumbai" width="200"/>
+
 # Digital Logic Design and Analysis & Digital System Lab
 
 ### CSC302 & CSL301 · Semester III · Computer Engineering
 
-A comprehensive academic resource for Digital Logic Design and Analysis (DLDA) and Digital System Laboratory, covering fundamental digital electronics, logic design, sequential circuits, and VHDL programming essential for computer engineering applications.
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+[![University](https://img.shields.io/badge/University-Mumbai-orange.svg)](https://mu.ac.in/)
+[![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-green.svg)](https://ternaengg.ac.in/)
+[![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+
+**A comprehensive academic resource for Digital Logic Design and Analysis (DLDA) and Digital System Laboratory, covering fundamental digital electronics, logic design, sequential circuits, and VHDL programming essential for computer engineering applications.**
+
+---
 
 [📖 Overview](#overview) · [📂 Contents](#repository-contents) · [📚 Reference Books](#reference-books) · [📝 Question Papers](#question-papers) · [✏️ Personal Preparation](#personal-preparation) · [📋 Syllabus](#syllabus) · [📘 Usage Guidelines](#usage-guidelines) · [📜 License](#license)
+
+</div>
 
 ---
 
@@ -25,7 +38,7 @@ The curriculum encompasses several key domains in digital electronics and logic 
 
 ### Repository Purpose
 
-This repository represents a curated collection of study materials, reference books, question papers, and personal preparation notes compiled during my academic journey. The primary motivation for creating and maintaining this archive is simple yet profound: to preserve knowledge for continuous learning and future reference.
+This repository represents a curated collection of study materials, reference books, question papers, and personal preparation notes compiled during my academic journey. The primary motivation for creating and maintaining this archive is simple yet profound: **to preserve knowledge for continuous learning and future reference**.
 
 As I progress in my career, I recognize that digital logic fundamentals remain essential for understanding computer architecture, embedded systems, and hardware-software interfaces. This repository serves as my intellectual reference point: a resource I can return to for relearning concepts, reviewing methodologies, and strengthening understanding when needed.
 
@@ -44,96 +57,120 @@ All materials in this repository were gathered, organized, and documented by me 
 
 ### Reference Books
 
-This collection includes 16 comprehensive reference materials covering all major topics:
+This collection includes **16 comprehensive reference materials** covering all major topics:
 
-- [Codes](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/Codes.pdf)
-- [DLDA Easy Solutions](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20Easy%20Solutions.pdf)
-- [DLDA Notes - Part 1](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20NOTES%201.pdf)
-- [DLDA Notes - Part 2](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20NOTES%202.pdf)
-- [DLDA Notes - Part 3](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20NOTES%203.pdf)
-- [DLDA Notes - Part 4](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20NOTES%204.pdf)
-- [DLDA Notes - Part 5](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20NOTES%205.pdf)
-- [DLDA Notes - Part 6](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20NOTES%206.pdf)
-- [DLDA Techmax](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20Techmax.pdf)
-- [Digital Design (5th Edition) - Morris Mano](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/Digital%20Design%20(5th%20Edition)%20-%20Morris%20Mano.pdf)
-- [Error Detection and Correction](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/Error%20Detection%20and%20Correction.pdf)
-- [Modern Digital Electronics - RP Jain](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/Modern%20Digital%20Electronics%20-%20RP%20Jain.pdf)
-- [Number System](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/Number%20system.pdf)
-- [Signed Binary Numbers](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/Signed%20Binary%20Numbers.pdf)
-- [Universal Gates NAND and NOR](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/Universal%20Gates%20NAND%20and%20NOR.pdf)
-- [VHDL](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/VHDL.pdf)
+| # | Resource | Focus Area |
+|---|----------|------------|
+| 1 | [Codes](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/Codes.pdf) | Number systems and coding schemes |
+| 2 | [DLDA Easy Solutions](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20Easy%20Solutions.pdf) | Solved problems and examples |
+| 3 | [DLDA Notes - Part 1](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20NOTES%201.pdf) | Comprehensive topic coverage |
+| 4 | [DLDA Notes - Part 2](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20NOTES%202.pdf) | Boolean algebra and logic gates |
+| 5 | [DLDA Notes - Part 3](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20NOTES%203.pdf) | Combinational logic circuits |
+| 6 | [DLDA Notes - Part 4](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20NOTES%204.pdf) | Sequential logic design |
+| 7 | [DLDA Notes - Part 5](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20NOTES%205.pdf) | Memory and programmable logic |
+| 8 | [DLDA Notes - Part 6](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20NOTES%206.pdf) | Advanced digital systems |
+| 9 | [DLDA Techmax](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20Techmax.pdf) | Complete syllabus coverage |
+| 10 | [Digital Design (5th Edition) - Morris Mano](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/Digital%20Design%20(5th%20Edition)%20-%20Morris%20Mano.pdf) | Standard textbook reference |
+| 11 | [Error Detection and Correction](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/Error%20Detection%20and%20Correction.pdf) | Coding theory and error control |
+| 12 | [Modern Digital Electronics - RP Jain](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/Modern%20Digital%20Electronics%20-%20RP%20Jain.pdf) | Comprehensive digital electronics |
+| 13 | [Number System](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/Number%20system.pdf) | Binary arithmetic and conversions |
+| 14 | [Signed Binary Numbers](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/Signed%20Binary%20Numbers.pdf) | Signed number representations |
+| 15 | [Universal Gates NAND and NOR](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/Universal%20Gates%20NAND%20and%20NOR.pdf) | Universal gate implementations |
+| 16 | [VHDL](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/VHDL.pdf) | Hardware description language |
+
+---
 
 ### Question Papers
 
-University of Mumbai examination papers from 2017-2019 with complete solutions:
+University of Mumbai examination papers from **2017-2019** with complete solutions:
 
-| Examination | Question Paper | Solutions |
-|-------------|---------------|-----------|
-| **December 2017** | [📄 Paper](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_DLDA-CBCGS_DEC17.pdf) | [✅ Solutions](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Question%20Papers/DLDA%20Solved%20Papers/SE-Comps_SEM3_DLDA-CBCGS_DEC17_SOLUTION.pdf) |
-| **May 2018** | [📄 Paper](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_DLDA-CBCGS_MAY18.pdf) | [✅ Solutions](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Question%20Papers/DLDA%20Solved%20Papers/SE-Comps_SEM3_DLDA-CBCGS_MAY18_SOLUTION.pdf) |
-| **December 2018** | [📄 Paper](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_DLDA-CBCGS_DEC18.pdf) | [✅ Solutions](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Question%20Papers/DLDA%20Solved%20Papers/SE-Comps_SEM3_DLDA-CBCGS_DEC18_SOLUTION.pdf) |
-| **May 2019** | [📄 Paper](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_DLDA-CBCGS_MAY19.pdf) | [✅ Solutions](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Question%20Papers/DLDA%20Solved%20Papers/SE-Comps_SEM3_DLDA-CBCGS_MAY19_SOLUTION.pdf) |
+| Exam Session | Question Paper | Solutions |
+|--------------|----------------|-----------|
+| December 2017 | [📄 Paper](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_DLDA-CBCGS_DEC17.pdf) | [✅ Solutions](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Question%20Papers/DLDA%20Solved%20Papers/SE-Comps_SEM3_DLDA-CBCGS_DEC17_SOLUTION.pdf) |
+| May 2018 | [📄 Paper](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_DLDA-CBCGS_MAY18.pdf) | [✅ Solutions](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Question%20Papers/DLDA%20Solved%20Papers/SE-Comps_SEM3_DLDA-CBCGS_MAY18_SOLUTION.pdf) |
+| December 2018 | [📄 Paper](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_DLDA-CBCGS_DEC18.pdf) | [✅ Solutions](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Question%20Papers/DLDA%20Solved%20Papers/SE-Comps_SEM3_DLDA-CBCGS_DEC18_SOLUTION.pdf) |
+| May 2019 | [📄 Paper](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_DLDA-CBCGS_MAY19.pdf) | [✅ Solutions](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Question%20Papers/DLDA%20Solved%20Papers/SE-Comps_SEM3_DLDA-CBCGS_MAY19_SOLUTION.pdf) |
+
+---
 
 ### Personal Preparation
 
 Study materials and planning resources for effective exam preparation:
 
-- [Syllabus Breakdown](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/My%20Preparation/Note_2019-09-26_13_54_38_159.png)
-- [Module Planning](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/My%20Preparation/Note_2019-09-26_14_10_59_854.png)
-- [Semester Timetable](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/My%20Preparation/Note_2019-09-26_14_17_40_056.png)
-- [Examination Blueprint](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Blueprint%20(DLDA).png)
+| Resource | Description |
+|----------|-------------|
+| 📝 [Syllabus Breakdown](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/My%20Preparation/Note_2019-09-26_13_54_38_159.png) | Detailed module-wise syllabus notes |
+| 📊 [Module Planning](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/My%20Preparation/Note_2019-09-26_14_10_59_854.png) | Topic organization and study schedule |
+| 📅 [Semester Timetable](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/My%20Preparation/Note_2019-09-26_14_17_40_056.png) | Class schedule and planning |
+| 🎯 [Examination Blueprint](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Blueprint%20(DLDA).png) | Question paper pattern and marking scheme |
+
+---
 
 ### Syllabus
 
-📋 [Official CBCGS Syllabus](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/SE-Comps_CBCGS_Syllabus.pdf)
-
-Complete Second Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications.
+> 📋 **[Official CBCGS Syllabus](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/SE-Comps_CBCGS_Syllabus.pdf)**  
+> Complete Second Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications.
 
 ---
 
 ## Usage Guidelines
 
-This repository is intended for **educational purposes only**. The materials provided here are meant to support learning and academic preparation.
+This repository is openly shared to support learning and knowledge exchange across the academic community.
 
-**Academic Integrity**: While these resources are freely available, students are encouraged to use them responsibly as supplementary study aids. Direct copying of solutions without understanding undermines the learning process and violates academic integrity principles.
+**For Students**  
+Use these resources as reference materials for understanding concepts, reviewing problem-solving techniques, and preparing for examinations. All content is organized for self-paced learning.
 
-**Attribution**: If you find these materials helpful and wish to share or reference them, please provide appropriate attribution to this repository.
+**For Educators**  
+These materials may serve as curriculum references, assignment examples, or supplementary teaching resources. Attribution is appreciated when utilizing content.
+
+**For Researchers**  
+The documentation and organization may provide insights into academic resource curation and educational content structuring.
 
 ---
 
 ## License
 
-This repository is licensed under the **MIT License**.
+This repository and all linked academic content are made available under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. See the [LICENSE](LICENSE) file for complete terms.
 
-Copyright © 2018-2022 Amey Thakur
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this repository and associated documentation files, to deal in the repository without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the repository.
+**Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
 
 ---
 
 ## About This Repository
 
+**Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur)  
+**Academic Journey**: Bachelor of Engineering in Computer Engineering (2018-2022)  
+**Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
+**University**: [University of Mumbai](https://mu.ac.in/)
+
+This repository represents a comprehensive collection of study materials, reference books, question papers, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Digital Logic Design and Analysis & Digital System Lab.
+
+**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
+
 ### Acknowledgments
 
-I would like to express my gratitude to:
+I am grateful to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Digital Logic Design and Analysis. Their dedication to teaching and commitment to student learning have been instrumental in my understanding of digital systems and logic design principles.
 
-- **University of Mumbai** for providing a comprehensive Computer Engineering curriculum
-- **Faculty members** of the Department of Computer Engineering for their guidance and instruction
-- **Fellow students and study groups** who contributed to collaborative learning during my academic journey
-
-### Quick Navigation
-
-🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+I am also grateful to the mentors and peers who contributed to this learning experience.
 
 ---
 
-<p align="center"><b>Subject as part of the Second Year (Semester III) of Computer Engineering</b></p>
-<p align="center"><b>University of Mumbai · 2018-2022</b></p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Amey-Thakur/COMPUTER-ENGINEERING">
-    <b>⬅️ Back to Computer Engineering Repository</b>
-  </a>
-</p>
+### Quick Navigation
+
+**[⬆ Back to Top](#digital-logic-design-and-analysis--digital-system-lab)** · **[📖 Overview](#overview)** · **[📚 Reference Books](#reference-books)** · **[📝 Question Papers](#question-papers)** · **[✏️ Personal Preparation](#personal-preparation)** · **[📋 Syllabus](#syllabus)**
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+
+**Computer Engineering (B.E.) - University of Mumbai**
+
+*Semester-wise curriculum, laboratories, projects, and academic notes.*
+
+</div>
