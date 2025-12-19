@@ -1,26 +1,28 @@
+<!-- HEADER -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Amey-Thakur/COMPUTER-ENGINEERING/main/university-of-mumbai-logo.png" alt="University of Mumbai" width="200"/>
+  <img src="https://raw.githubusercontent.com/Amey-Thakur/COMPUTER-ENGINEERING/main/university-of-mumbai-logo.png" alt="University of Mumbai" width="200"/>
 
-# Digital Logic Design and Analysis & Digital System Lab
+  # Digital Logic Design and Analysis & Digital System Lab
 
-### CSC302 & CSL301 · Semester III · Computer Engineering
+  ### CSC302 & CSL301 · Semester III · Computer Engineering
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
-[![University](https://img.shields.io/badge/University-Mumbai-orange.svg)](https://mu.ac.in/)
-[![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-green.svg)](https://ternaengg.ac.in/)
-[![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+  [![University](https://img.shields.io/badge/University-Mumbai-orange.svg)](https://mu.ac.in/)
+  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-green.svg)](https://ternaengg.ac.in/)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
 
-**A comprehensive academic resource for Digital Logic Design and Analysis (DLDA) and Digital System Laboratory, covering fundamental digital electronics, logic design, sequential circuits, and VHDL programming essential for computer engineering applications.**
+  **A comprehensive academic resource for Digital Logic Design and Analysis (DLDA) and Digital System Laboratory, covering fundamental digital electronics, logic design, sequential circuits, and VHDL programming essential for computer engineering applications.**
 
----
+  ---
 
-[📖 Overview](#overview) · [📂 Contents](#repository-contents) · [📚 Reference Books](#reference-books) · [📝 Question Papers](#question-papers) · [✏️ Personal Preparation](#personal-preparation) · [📋 Syllabus](#syllabus) · [📘 Usage Guidelines](#usage-guidelines) · [📜 License](#license)
+  [📖 Overview](#overview) · [📂 Contents](#repository-contents) · [📚 Reference Books](#reference-books) · [📝 Question Papers](#question-papers) · [✏️ Personal Preparation](#personal-preparation) · [📋 Syllabus](#syllabus) · [📘 Usage Guidelines](#usage-guidelines) · [📜 License](#license)
 
 </div>
 
 ---
 
+<!-- OVERVIEW -->
 ## Overview
 
 Digital Logic Design and Analysis (CSC302) and Digital System Lab (CSL301) are core subjects in the Second Year (Semester III) of the Computer Engineering curriculum at the University of Mumbai. These courses establish the foundational understanding of digital systems, logic design principles, and hardware description languages crucial for computer architecture and embedded systems development.
@@ -53,6 +55,7 @@ All materials in this repository were gathered, organized, and documented by me 
 
 ---
 
+<!-- CONTENTS -->
 ## Repository Contents
 
 ### Reference Books
@@ -60,7 +63,7 @@ All materials in this repository were gathered, organized, and documented by me 
 This collection includes **16 comprehensive reference materials** covering all major topics:
 
 | # | Resource | Focus Area |
-|---|----------|------------|
+|:-:|:---|:---|
 | 1 | [Codes](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/Codes.pdf) | Number systems and coding schemes |
 | 2 | [DLDA Easy Solutions](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20Easy%20Solutions.pdf) | Solved problems and examples |
 | 3 | [DLDA Notes - Part 1](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20Notes%201.pdf) | Comprehensive topic coverage |
@@ -85,7 +88,7 @@ This collection includes **16 comprehensive reference materials** covering all m
 University of Mumbai examination papers from **2017-2019** with complete solutions:
 
 | Exam Session | Question Paper | Solutions |
-|--------------|----------------|-----------|
+|:---|:---|:---|
 | December 2017 | [📄 Paper](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_DLDA-CBCGS_DEC17.pdf) | [✅ Solutions](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Question%20Papers/DLDA%20Solved%20Papers/SE-Comps_SEM3_DLDA-CBCGS_DEC17_SOLUTION.pdf) |
 | May 2018 | [📄 Paper](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_DLDA-CBCGS_MAY18.pdf) | [✅ Solutions](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Question%20Papers/DLDA%20Solved%20Papers/SE-Comps_SEM3_DLDA-CBCGS_MAY18_SOLUTION.pdf) |
 | December 2018 | [📄 Paper](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_DLDA-CBCGS_DEC18.pdf) | [✅ Solutions](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Question%20Papers/DLDA%20Solved%20Papers/SE-Comps_SEM3_DLDA-CBCGS_DEC18_SOLUTION.pdf) |
@@ -98,7 +101,7 @@ University of Mumbai examination papers from **2017-2019** with complete solutio
 Study materials and planning resources for effective exam preparation:
 
 | Resource | Description |
-|----------|-------------|
+|:---|:---|
 | 📝 [Syllabus Breakdown](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/My%20Preparation/Syllabus%20Breakdown.png) | Detailed module-wise syllabus notes |
 | 📊 [Module Planning](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/My%20Preparation/Module%20Planning.png) | Topic organization and study schedule |
 | 📅 [Semester Timetable](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/My%20Preparation/Semester%20Timetable.png) | Class schedule and planning |
@@ -106,13 +109,15 @@ Study materials and planning resources for effective exam preparation:
 
 ---
 
-### Syllabus
+<!-- SYLLABUS -->
+## Syllabus
 
 > 📋 **[Official CBCGS Syllabus](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/SE-Comps_CBCGS_Syllabus.pdf)**  
 > Complete Second Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications.
 
 ---
 
+<!-- USAGE -->
 ## Usage Guidelines
 
 This repository is openly shared to support learning and knowledge exchange across the academic community.
@@ -128,6 +133,7 @@ The documentation and organization may provide insights into academic resource c
 
 ---
 
+<!-- LICENSE -->
 ## License
 
 This repository and all linked academic content are made available under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. See the [LICENSE](LICENSE) file for complete terms.
@@ -136,6 +142,7 @@ This repository and all linked academic content are made available under the **C
 
 ---
 
+<!-- ABOUT -->
 ## About This Repository
 
 **Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur)  
@@ -155,11 +162,12 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
 ---
 
+<!-- FOOTER -->
 <div align="center">
 
-### Quick Navigation
+  ### Quick Navigation
 
-**[⬆ Back to Top](#digital-logic-design-and-analysis--digital-system-lab)** · **[📖 Overview](#overview)** · **[📚 Reference Books](#reference-books)** · **[📝 Question Papers](#question-papers)** · **[✏️ Personal Preparation](#personal-preparation)** · **[📋 Syllabus](#syllabus)**
+  **[⬆ Back to Top](#digital-logic-design-and-analysis--digital-system-lab)** · **[📖 Overview](#overview)** · **[📚 Reference Books](#reference-books)** · **[📝 Question Papers](#question-papers)** · **[✏️ Personal Preparation](#personal-preparation)** · **[📋 Syllabus](#syllabus)**
 
 </div>
 
@@ -167,10 +175,10 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
 <div align="center">
 
-### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+  ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
 
-**Computer Engineering (B.E.) - University of Mumbai**
+  **Computer Engineering (B.E.) - University of Mumbai**
 
-*Semester-wise curriculum, laboratories, projects, and academic notes.*
+  *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 </div>
