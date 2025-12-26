@@ -195,11 +195,17 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
   **[↑ Back to Top](#digital-logic-design-and-analysis--digital-system-lab)**
 
   **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Question Papers](#question-papers)** &nbsp;·&nbsp; **[Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
-
-  ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
-
-  **Computer Engineering (B.E.) - University of Mumbai**
-
-  *Semester-wise curriculum, laboratories, projects, and academic notes.*
-
-</div>
+ 
+ </div>
+ 
+ ---
+ 
+ <div align="center">
+ 
+   ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+ 
+   **Computer Engineering (B.E.) - University of Mumbai**
+ 
+   *Semester-wise curriculum, laboratories, projects, and academic notes.*
+ 
+ </div>
