@@ -14,7 +14,7 @@
 
   <!-- Badges -->
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
-  [![University](https://img.shields.io/badge/University-Mumbai-A6192E.svg)](https://mu.ac.in/)
+  [![University](https://img.shields.io/badge/University-Mumbai-%23A6192E.svg)](https://mu.ac.in/)
   [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
 
@@ -76,22 +76,22 @@ This collection includes **16 comprehensive reference materials** covering all m
 
 | # | Resource | Focus Area |
 |:-:|:---|:---|
-| 1 | [Codes](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/Codes.pdf) | Number systems and coding schemes |
-| 2 | [DLDA Easy Solutions](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20Easy%20Solutions.pdf) | Solved problems and examples |
-| 3 | [DLDA Notes - Part 1](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20Notes%201.pdf) | Comprehensive topic coverage |
-| 4 | [DLDA Notes - Part 2](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20Notes%202.pdf) | Boolean algebra and logic gates |
-| 5 | [DLDA Notes - Part 3](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20Notes%203.pdf) | Combinational logic circuits |
-| 6 | [DLDA Notes - Part 4](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20Notes%204.pdf) | Sequential logic design |
-| 7 | [DLDA Notes - Part 5](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20Notes%205.pdf) | Memory and programmable logic |
-| 8 | [DLDA Notes - Part 6](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20Notes%206.pdf) | Advanced digital systems |
-| 9 | [DLDA Techmax](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/DLDA%20Techmax.pdf) | Complete syllabus coverage |
-| 10 | [Digital Design (5th Edition) - Morris Mano](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/Digital%20Design%20(5th%20Edition)%20-%20Morris%20Mano.pdf) | Standard textbook reference |
-| 11 | [Error Detection and Correction](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/Error%20Detection%20and%20Correction.pdf) | Coding theory and error control |
-| 12 | [Modern Digital Electronics - RP Jain](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/Modern%20Digital%20Electronics%20-%20RP%20Jain.pdf) | Comprehensive digital electronics |
-| 13 | [Number System](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/Number%20System.pdf) | Binary arithmetic and conversions |
-| 14 | [Signed Binary Numbers](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/Signed%20Binary%20Numbers.pdf) | Signed number representations |
-| 15 | [Universal Gates NAND and NOR](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/Universal%20Gates%20NAND%20and%20NOR.pdf) | Universal gate implementations |
-| 16 | [VHDL](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Reference%20Books/VHDL.pdf) | Hardware description language |
+| 1 | [Codes](Reference%20Books/Codes.pdf) | Number systems and coding schemes |
+| 2 | [DLDA Easy Solutions](Reference%20Books/DLDA%20Easy%20Solutions.pdf) | Solved problems and examples |
+| 3 | [DLDA Notes - Part 1](Reference%20Books/DLDA%20Notes%201.pdf) | Comprehensive topic coverage |
+| 4 | [DLDA Notes - Part 2](Reference%20Books/DLDA%20Notes%202.pdf) | Boolean algebra and logic gates |
+| 5 | [DLDA Notes - Part 3](Reference%20Books/DLDA%20Notes%203.pdf) | Combinational logic circuits |
+| 6 | [DLDA Notes - Part 4](Reference%20Books/DLDA%20Notes%204.pdf) | Sequential logic design |
+| 7 | [DLDA Notes - Part 5](Reference%20Books/DLDA%20Notes%205.pdf) | Memory and programmable logic |
+| 8 | [DLDA Notes - Part 6](Reference%20Books/DLDA%20Notes%206.pdf) | Advanced digital systems |
+| 9 | [DLDA Techmax](Reference%20Books/DLDA%20Techmax.pdf) | Complete syllabus coverage |
+| 10 | [Digital Design (5th Edition) - Morris Mano](Reference%20Books/Digital%20Design%20(5th%20Edition)%20-%20Morris%20Mano.pdf) | Standard textbook reference |
+| 11 | [Error Detection and Correction](Reference%20Books/Error%20Detection%20and%20Correction.pdf) | Coding theory and error control |
+| 12 | [Modern Digital Electronics - RP Jain](Reference%20Books/Modern%20Digital%20Electronics%20-%20RP%20Jain.pdf) | Comprehensive digital electronics |
+| 13 | [Number System](Reference%20Books/Number%20System.pdf) | Binary arithmetic and conversions |
+| 14 | [Signed Binary Numbers](Reference%20Books/Signed%20Binary%20Numbers.pdf) | Signed number representations |
+| 15 | [Universal Gates NAND and NOR](Reference%20Books/Universal%20Gates%20NAND%20and%20NOR.pdf) | Universal gate implementations |
+| 16 | [VHDL](Reference%20Books/VHDL.pdf) | Hardware description language |
 
 ---
 
@@ -101,10 +101,10 @@ University of Mumbai examination papers from **2017-2019** with complete solutio
 
 | # | Exam Session | Question Paper | Solutions |
 |:-:|:---|:---|:---|
-| 1 | December 2017 | [Paper](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_DLDA-CBCGS_DEC17.pdf) | [Solutions](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Question%20Papers/DLDA%20Solved%20Papers/SE-Comps_SEM3_DLDA-CBCGS_DEC17_SOLUTION.pdf) |
-| 2 | May 2018 | [Paper](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_DLDA-CBCGS_MAY18.pdf) | [Solutions](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Question%20Papers/DLDA%20Solved%20Papers/SE-Comps_SEM3_DLDA-CBCGS_MAY18_SOLUTION.pdf) |
-| 3 | December 2018 | [Paper](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_DLDA-CBCGS_DEC18.pdf) | [Solutions](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Question%20Papers/DLDA%20Solved%20Papers/SE-Comps_SEM3_DLDA-CBCGS_DEC18_SOLUTION.pdf) |
-| 4 | May 2019 | [Paper](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_DLDA-CBCGS_MAY19.pdf) | [Solutions](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Question%20Papers/DLDA%20Solved%20Papers/SE-Comps_SEM3_DLDA-CBCGS_MAY19_SOLUTION.pdf) |
+| 1 | December 2017 | [Paper](Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_DLDA-CBCGS_DEC17.pdf) | [Solutions](Question%20Papers/DLDA%20Solved%20Papers/SE-Comps_SEM3_DLDA-CBCGS_DEC17_SOLUTION.pdf) |
+| 2 | May 2018 | [Paper](Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_DLDA-CBCGS_MAY18.pdf) | [Solutions](Question%20Papers/DLDA%20Solved%20Papers/SE-Comps_SEM3_DLDA-CBCGS_MAY18_SOLUTION.pdf) |
+| 3 | December 2018 | [Paper](Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_DLDA-CBCGS_DEC18.pdf) | [Solutions](Question%20Papers/DLDA%20Solved%20Papers/SE-Comps_SEM3_DLDA-CBCGS_DEC18_SOLUTION.pdf) |
+| 4 | May 2019 | [Paper](Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_DLDA-CBCGS_MAY19.pdf) | [Solutions](Question%20Papers/DLDA%20Solved%20Papers/SE-Comps_SEM3_DLDA-CBCGS_MAY19_SOLUTION.pdf) |
 
 ---
 
@@ -114,10 +114,10 @@ Study materials and planning resources for effective exam preparation:
 
 | # | Resource | Description |
 |:-:|:---|:---|
-| 1 | [Syllabus Breakdown](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/My%20Preparation/Syllabus%20Breakdown.png) | Detailed module-wise syllabus notes |
-| 2 | [Module Planning](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/My%20Preparation/Module%20Planning.png) | Topic organization and study schedule |
-| 3 | [Semester Timetable](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/My%20Preparation/Semester%20Timetable.png) | Class schedule and planning |
-| 4 | [Examination Blueprint](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/Blueprint%20(DLDA).png) | Question paper pattern and marking scheme |
+| 1 | [Syllabus Breakdown](My%20Preparation/Syllabus%20Breakdown.png) | Detailed module-wise syllabus notes |
+| 2 | [Module Planning](My%20Preparation/Module%20Planning.png) | Topic organization and study schedule |
+| 3 | [Semester Timetable](My%20Preparation/Semester%20Timetable.png) | Class schedule and planning |
+| 4 | [Examination Blueprint](Blueprint%20(DLDA).png) | Question paper pattern and marking scheme |
 
 ---
 
@@ -126,7 +126,7 @@ Study materials and planning resources for effective exam preparation:
      ========================================================================================= -->
 ## Syllabus
 
-> **[Official CBCGS Syllabus](https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB/blob/main/SE-Comps_CBCGS_Syllabus.pdf)**  
+> **[Official CBCGS Syllabus](SE-Comps_CBCGS_Syllabus.pdf)**  
 > Complete Second Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications.
 
 > [!IMPORTANT]
@@ -195,6 +195,10 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
   **[↑ Back to Top](#digital-logic-design-and-analysis--digital-system-lab)**
 
   **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Question Papers](#question-papers)** &nbsp;·&nbsp; **[Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
+
+  <br>
+
+  **[Applied Mathematics III](https://github.com/Amey-Thakur/APPLIED-MATHEMATICS-III)** &nbsp;·&nbsp; **[Data Structures & Analysis](https://github.com/Amey-Thakur/DATA-STRUCTURE-AND-ANALYSIS-AND-DATA-STRUCTURE-LAB)**
 
 </div>
 
