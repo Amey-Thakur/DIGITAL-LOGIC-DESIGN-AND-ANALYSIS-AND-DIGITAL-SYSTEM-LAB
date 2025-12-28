@@ -1,0 +1,28 @@
+# General
+.DS_Store
+Thumbs.db
+*.swp
+*.log
+
+# Windows
+desktop.ini
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Python (if applicable)
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# MATLAB (if applicable)
+*.asv
+
+# VHDL/Verilog (if applicable)
+*.vcd
+*.wlf
+transcripts/
