@@ -1,3 +1,5 @@
+# ALL REPOSITORIES
+# ----------------
 # General
 .DS_Store
 Thumbs.db
@@ -12,17 +14,69 @@ $RECYCLE.BIN/
 .vscode/
 *.code-workspace
 
-# Python (if applicable)
+# JetBrains
+.idea/
+*.iml
+
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
 venv/
 env/
+.env
+*.egg-info/
+build/
+dist/
 
-# MATLAB (if applicable)
-*.asv
-
-# VHDL/Verilog (if applicable)
-*.vcd
+# EDA / Hardware Tools
+# ==================
+# ModelSim / Questa
+transcripts
+work/
 *.wlf
-transcripts/
+*.mpf
+covhtmlreport/
+Dataset/
+*.vstf
+
+# Xilinx Vivado / ISE
+.Xil/
+*.jou
+*.log
+*.str
+*.bit
+*.bin
+*.mcs
+*.prm
+*.xpr
+
+# Altera / Intel Quartus
+db/
+incremental_db/
+output_files/
+simulation/
+greybox_tmp/
+*.qws
+*.ppf
+*.ddb
+*.cmp
+*.sip
+*.spd
+*.sof
+*.pof
+*.jam
+*.jbc
+*.qpf
+
+# Logisim
+# Keep .circ files as they are the source, but ignore backups if any
+*.circ.bak
+
+# VHDL / Verilog Simulation Artifacts
+*.vcd
+*.vpd
+*.evcd
+
+# Git
+*.orig

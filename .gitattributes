@@ -1,5 +1,5 @@
 # Auto detect text files and perform LF normalization
-* text=auto
+* text=auto eol=lf
 
 # Custom for Visual Studio
 *.cs     diff=csharp
@@ -36,3 +36,24 @@
 *.gz binary
 *.zip binary
 *.7z binary
+*.rar binary
+*.tar binary
+*.iso binary
+
+# FPGA Bitstreams
+*.bit binary
+*.sof binary
+*.pof binary
+*.mcs binary
+*.bin binary
+
+# Hardware Description Languages
+*.v    text
+*.sv   text
+*.vh   text
+*.vhd  text
+*.vhdl text
+
+# Python
+*.pyc binary
+*.pyd binary
