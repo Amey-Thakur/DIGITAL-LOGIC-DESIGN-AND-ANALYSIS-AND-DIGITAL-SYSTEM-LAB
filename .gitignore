@@ -1,82 +1,37 @@
-# ALL REPOSITORIES
-# ----------------
-# General
+# Basics
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# Operating Systems
 .DS_Store
 Thumbs.db
-*.swp
-*.log
-
-# Windows
-desktop.ini
+Desktop.ini
 $RECYCLE.BIN/
 
-# VS Code
+# IDEs and Editors
 .vscode/
-*.code-workspace
-
-# JetBrains
 .idea/
-*.iml
+*.sublime-workspace
+*.sublime-project
+.settings/
+.classpath
+.project
 
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-venv/
-env/
-.env
-*.egg-info/
-build/
+# Build Artifacts (General)
 dist/
+build/
+bin/
+obj/
+out/
 
-# EDA / Hardware Tools
-# ==================
-# ModelSim / Questa
-transcripts
-work/
-*.wlf
-*.mpf
-covhtmlreport/
-Dataset/
-*.vstf
+# Archives
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
 
-# Xilinx Vivado / ISE
-.Xil/
-*.jou
-*.log
-*.str
-*.bit
-*.bin
-*.mcs
-*.prm
-*.xpr
-
-# Altera / Intel Quartus
-db/
-incremental_db/
-output_files/
-simulation/
-greybox_tmp/
-*.qws
-*.ppf
-*.ddb
-*.cmp
-*.sip
-*.spd
-*.sof
-*.pof
-*.jam
-*.jbc
-*.qpf
-
-# Logisim
-# Keep .circ files as they are the source, but ignore backups if any
-*.circ.bak
-
-# VHDL / Verilog Simulation Artifacts
-*.vcd
-*.vpd
-*.evcd
-
-# Git
-*.orig
+# Note: Academic files like .pdf, .docx, .png, etc. are intentionally NOT ignored.
