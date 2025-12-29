@@ -1,59 +1,20 @@
-# Auto detect text files and perform LF normalization
-* text=auto eol=lf
+# Auto-detect text files and perform LF normalization
+* text=auto
 
-# Custom for Visual Studio
-*.cs     diff=csharp
-*.sln    merge=union
-*.csproj merge=union
-*.vbproj merge=union
-*.fsproj merge=union
-*.dbproj merge=union
-
-# Standard to msysgit
-*.doc	 diff=astextplain
-*.DOC	 diff=astextplain
-*.docx diff=astextplain
-*.DOCX diff=astextplain
-*.dot  diff=astextplain
-*.DOT  diff=astextplain
-*.pdf  diff=astextplain
-*.PDF	 diff=astextplain
-*.rtf	 diff=astextplain
-*.RTF	 diff=astextplain
-
-# Binary files
+# Custom Binary File Definitions
 *.png binary
 *.jpg binary
 *.jpeg binary
 *.gif binary
 *.ico binary
-*.mov binary
-*.mp4 binary
-*.mp3 binary
-*.flv binary
-*.fla binary
-*.swf binary
-*.gz binary
+*.pdf binary
+*.doc binary
+*.docx binary
+*.ppt binary
+*.pptx binary
+*.xls binary
+*.xlsx binary
 *.zip binary
-*.7z binary
-*.rar binary
 *.tar binary
-*.iso binary
-
-# FPGA Bitstreams
-*.bit binary
-*.sof binary
-*.pof binary
-*.mcs binary
-*.bin binary
-
-# Hardware Description Languages
-*.v    text
-*.sv   text
-*.vh   text
-*.vhd  text
-*.vhdl text
-
-# Python
-*.pyc binary
-*.pyd binary
+*.gz binary
+*.rar binary
