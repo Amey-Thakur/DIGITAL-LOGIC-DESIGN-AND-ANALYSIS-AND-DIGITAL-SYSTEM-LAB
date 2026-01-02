@@ -1,37 +1,41 @@
-# Basics
-*.log
-*.tmp
-*.bak
-*.swp
-*~
+# DLDA - Academic Repository
+# Specialized .gitignore for digital logic and hdl archiving
 
-# Operating Systems
+# OS-generated files
+[Tt]humbs.db
+[Dd]esktop.ini
 .DS_Store
-Thumbs.db
-Desktop.ini
-$RECYCLE.BIN/
+.AppleDouble
+.LSOverride
 
-# IDEs and Editors
+# Editor and IDE configuration
 .vscode/
 .idea/
-*.sublime-workspace
-*.sublime-project
-.settings/
-.classpath
-.project
+*.swp
+*.swo
+*~
+*.iml
+*.code-workspace
 
-# Build Artifacts (General)
-dist/
-build/
-bin/
-obj/
-out/
+# HDL and Simulation Build Artifacts
+# (Proteus, Logisim, Quartus, ModelSim)
+*.pdsbak
+*.pdsxc
+*.lck
+*.sim
+*.ghw
+*.vcd
+work/
+db/
+incremental_db/
 
-# Archives
-*.zip
-*.tar
-*.gz
-*.rar
-*.7z
+# Temporary and Cache files
+*.tmp
+*.log
+.cache/
+node_modules/
 
-# Note: Academic files like .pdf, .docx, .png, etc. are intentionally NOT ignored.
+# Academic build/output artifacts
+*.bak
+*.sav
+*.old
