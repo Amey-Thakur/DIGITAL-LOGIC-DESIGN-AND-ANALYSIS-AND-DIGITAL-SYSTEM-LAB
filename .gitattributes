@@ -1,20 +1,31 @@
-# Auto-detect text files and perform LF normalization
+# DLDA - Academic Repository
+# Professional .gitattributes for scholarly archiving
+
+# Set default behavior to automatically normalize line endings
 * text=auto
 
-# Custom Binary File Definitions
+# Ensure text and HDL files use LF on checkout
+*.md text eol=lf
+*.txt text eol=lf
+*.vhd text eol=lf
+*.vhdl text eol=lf
+*.v text eol=lf
+*.sv text eol=lf
+*.cff text eol=lf
+LICENSE text eol=lf
+
+# Explicitly mark binary files
 *.png binary
 *.jpg binary
 *.jpeg binary
 *.gif binary
-*.ico binary
 *.pdf binary
-*.doc binary
-*.docx binary
-*.ppt binary
-*.pptx binary
-*.xls binary
-*.xlsx binary
-*.zip binary
-*.tar binary
-*.gz binary
-*.rar binary
+*.ico binary
+
+# Digital Logic Simulation Formats (Binary)
+*.pdsprj binary
+*.circ binary
+*.ms* binary
+
+# Improve diff handling
+*.md text diff=markdown
