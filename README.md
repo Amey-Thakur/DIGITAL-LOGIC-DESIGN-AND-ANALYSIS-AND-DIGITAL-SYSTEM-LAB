@@ -61,7 +61,8 @@ As I progress in my career, I recognize that digital logic fundamentals remain e
 - **Academic Documentation**: To authentically document my learning journey through DLDA and Digital System Lab
 - **Community Contribution**: To share these resources with students and learners who may benefit from them
 
-All materials in this repository were gathered, organized, and documented by me during my undergraduate studies (2018-2022) as part of my coursework and exam preparation.
+> [!NOTE]
+> All materials in this repository were gathered, organized, and documented by me during my undergraduate studies (2018-2022) as part of my coursework and exam preparation.
 
 ---
 
