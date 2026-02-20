@@ -41,12 +41,12 @@ Digital Logic Design and Analysis (CSC302) and Digital System Lab (CSL301) are c
 
 The curriculum encompasses several key domains in digital electronics and logic design:
 
-- **Number Systems and Codes**: Binary, octal, hexadecimal representations, BCD, Gray code, error detection and correction codes
-- **Boolean Algebra and Logic Gates**: Boolean theorems, De Morgan's laws, universal gates (NAND/NOR), logic simplification
-- **Combinational Logic Design**: Adders, subtractors, multiplexers, demultiplexers, encoders, decoders, comparators
-- **Sequential Logic Circuits**: Flip-flops, registers, counters, state machines, timing analysis
-- **Memory and Programmable Logic**: RAM, ROM, PLA, PAL, FPGA fundamentals
-- **VHDL Programming**: Hardware description language syntax, behavioral and structural modeling, simulation and synthesis
+- **Number Systems and Codes**: Binary, octal, hexadecimal representations, BCD, Gray code, error detection and correction codes.
+- **Boolean Algebra and Logic Gates**: Boolean theorems, De Morgan's laws, universal gates (NAND/NOR), logic simplification.
+- **Combinational Logic Design**: Adders, subtractors, multiplexers, demultiplexers, encoders, decoders, comparators.
+- **Sequential Logic Circuits**: Flip-flops, registers, counters, state machines, timing analysis.
+- **Memory and Programmable Logic**: RAM, ROM, PLA, PAL, FPGA fundamentals.
+- **VHDL Programming**: Hardware description language syntax, behavioral and structural modeling, simulation and synthesis.
 
 ### Repository Purpose
 
