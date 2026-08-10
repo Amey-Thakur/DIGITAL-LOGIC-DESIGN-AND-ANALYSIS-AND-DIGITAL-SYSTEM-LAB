@@ -13,7 +13,7 @@
   ### CSC302 & CSL301 · Semester III · Computer Engineering
 
   <!-- Badges -->
-  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-9E9E9E.svg)](LICENSE)
+  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-6E7681.svg)](LICENSE)
   [![University](https://img.shields.io/badge/University-Mumbai-A6192E.svg)](https://mu.ac.in/)
   [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-E8710A.svg)](https://ternaengg.ac.in/)
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
