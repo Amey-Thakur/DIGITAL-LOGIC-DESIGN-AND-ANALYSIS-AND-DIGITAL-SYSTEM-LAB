@@ -13,13 +13,13 @@
   ### CSC302 & CSL301 · Semester III · Computer Engineering
 
   <!-- Badges -->
-  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
-  [![University](https://img.shields.io/badge/University-Mumbai-%23A6192E.svg)](https://mu.ac.in/)
-  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
-  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-9E9E9E.svg)](LICENSE)
+  [![University](https://img.shields.io/badge/University-Mumbai-A6192E.svg)](https://mu.ac.in/)
+  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-E8710A.svg)](https://ternaengg.ac.in/)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
 
   <!-- Short Description -->
-  **A comprehensive academic resource for Digital Logic Design and Analysis (DLDA) and Digital System Laboratory, covering fundamental digital electronics, logic design, sequential circuits, and VHDL programming essential for computer engineering applications.**
+  **A complete academic archive for Digital Logic Design and Analysis (DLDA) and Digital System Laboratory, covering fundamental digital electronics, logic design, sequential circuits, and VHDL programming essential for computer engineering applications.**
 
   ---
 
@@ -35,11 +35,11 @@
      ========================================================================================= -->
 ## Overview
 
-Digital Logic Design and Analysis (CSC302) and Digital System Lab (CSL301) are core subjects in the Second Year (Semester III) of the Computer Engineering curriculum at the University of Mumbai. These courses establish the foundational understanding of digital systems, logic design principles, and hardware description languages crucial for computer architecture and embedded systems development.
+Digital Logic Design and Analysis (CSC302) and Digital System Lab (CSL301) are core subjects in the Second Year (Semester III) of the Computer Engineering curriculum at the University of Mumbai. These courses establish the foundational understanding of digital systems, logic design principles, and hardware description languages essential to computer architecture and embedded systems development.
 
 ### Course Topics
 
-The curriculum encompasses several key domains in digital electronics and logic design:
+The curriculum comprises several key domains in digital electronics and logic design:
 
 - **Number Systems and Codes**: Binary, octal, hexadecimal representations, BCD, Gray code, error detection and correction codes.
 - **Boolean Algebra and Logic Gates**: Boolean theorems, De Morgan's laws, universal gates (NAND/NOR), logic simplification.
@@ -50,13 +50,13 @@ The curriculum encompasses several key domains in digital electronics and logic 
 
 ### Repository Purpose
 
-This repository represents a curated collection of study materials, reference books, question papers, and personal preparation notes compiled during my academic journey. The primary motivation for creating and maintaining this archive is simple yet profound: **to preserve knowledge for continuous learning and future reference**.
+This repository is a curated collection of study materials, reference books, question papers, and personal preparation notes compiled during my academic journey. The primary motivation for creating and maintaining this archive is straightforward: **to preserve knowledge for continuous learning and future reference**.
 
-As I progress in my career, I recognize that digital logic fundamentals remain essential for understanding computer architecture, embedded systems, and hardware-software interfaces. This repository serves as my intellectual reference point: a resource I can return to for relearning concepts, reviewing methodologies, and strengthening understanding when needed.
+As I progress in my career, I recognize that digital logic fundamentals remain essential for understanding computer architecture, embedded systems, and hardware-software interfaces. This repository remains my principal reference: a resource I can return to for relearning concepts, reviewing methodologies, and strengthening understanding when needed.
 
 **Why this repository exists:**
 
-- **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom.
+- **Knowledge Preservation**: To maintain organized access to complete study materials beyond the classroom.
 - **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental digital logic concepts.
 - **Academic Documentation**: To authentically document my learning journey through DLDA and Digital System Lab.
 - **Community Contribution**: To share these resources with students and learners who may benefit from them.
@@ -73,7 +73,7 @@ As I progress in my career, I recognize that digital logic fundamentals remain e
 
 ### Reference Books
 
-This collection includes **comprehensive reference materials** covering all major topics:
+This collection includes **authoritative reference materials** covering all major topics:
 
 | # | Resource | Focus Area |
 |:-:|:---|:---|
@@ -146,7 +146,7 @@ This repository is openly shared to support learning and knowledge exchange acro
 Use these resources as reference materials for understanding concepts, reviewing problem-solving techniques, and preparing for examinations. All content is organized for self-paced learning.
 
 **For Educators**  
-These materials may serve as curriculum references, assignment examples, or supplementary teaching resources. Attribution is appreciated when utilizing content.
+These materials may serve as curriculum references, assignment examples, or supplementary teaching resources. Attribution is appreciated when using content.
 
 **For Researchers**  
 The documentation and organization may provide insights into academic resource curation and educational content structuring.
@@ -175,7 +175,7 @@ This repository and all linked academic content are made available under the **C
 **Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
 **University**: [University of Mumbai](https://mu.ac.in/)
 
-This repository represents a comprehensive collection of study materials, reference books, question papers, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Digital Logic Design and Analysis & Digital System Lab.
+This repository is a complete collection of study materials, reference books, question papers, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to remain a dependable reference for students pursuing Digital Logic Design and Analysis & Digital System Lab.
 
 **Connect**: [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
