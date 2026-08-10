@@ -79,10 +79,10 @@ This collection includes **comprehensive reference materials** covering all majo
 |:-:|:---|:---|
 | 1 | [Codes](Reference%20Books/Codes.pdf) | Number systems and coding schemes |
 | 2 | [DLDA Easy Solutions](Reference%20Books/DLDA%20Easy%20Solutions.pdf) | Solved problems and examples |
-| 3 | [DLDA Notes - Part 1](Reference%20Books/DLDA%20Notes%201.pdf) | Comprehensive topic coverage |
-| 4 | [DLDA Notes - Part 2](Reference%20Books/DLDA%20Notes%202.pdf) | Boolean algebra and logic gates |
-| 5 | [DLDA Notes - Part 3](Reference%20Books/DLDA%20Notes%203.pdf) | Combinational logic circuits |
-| 6 | [DLDA Notes - Part 4](Reference%20Books/DLDA%20Notes%204.pdf) | Sequential logic design |
+| 3 | [DLDA Notes - Part 1](Reference%20Books/DLDA%20Notes%201.pdf) | Number systems and conversions |
+| 4 | [DLDA Notes - Part 2](Reference%20Books/DLDA%20Notes%202.pdf) | Signed binary number representations |
+| 5 | [DLDA Notes - Part 3](Reference%20Books/DLDA%20Notes%203.pdf) | Error detection and correction, Hamming codes |
+| 6 | [DLDA Notes - Part 4](Reference%20Books/DLDA%20Notes%204.pdf) | Codes and coding schemes |
 | 7 | [DLDA Notes - Part 5](Reference%20Books/DLDA%20Notes%205.pdf) | Memory and programmable logic |
 | 8 | [DLDA Notes - Part 6](Reference%20Books/DLDA%20Notes%206.pdf) | Advanced digital systems |
 | 9 | [DLDA Techmax](Reference%20Books/DLDA%20Techmax.pdf) | Complete syllabus coverage |
@@ -104,7 +104,7 @@ Study materials and planning resources for effective exam preparation:
 |:-:|:---|:---|
 | 1 | [Syllabus Breakdown](My%20Preparation/Syllabus%20Breakdown.png) | Detailed module-wise syllabus notes |
 | 2 | [Module Planning](My%20Preparation/Module%20Planning.png) | Topic organization and study schedule |
-| 3 | [Semester Timetable](My%20Preparation/Semester%20Timetable.png) | Class schedule and planning |
+| 3 | [Examination Timetable](My%20Preparation/Semester%203%20Timetable.jpg) | Winter 2019 Semester III examination schedule &middot; also as [PDF](My%20Preparation/Semester%203%20Timetable.pdf) and [annotated note](My%20Preparation/Semester%20Timetable.png) |
 | 4 | [Examination Blueprint](Blueprint%20(DLDA).png) | Question paper pattern and marking scheme |
 
 ---
