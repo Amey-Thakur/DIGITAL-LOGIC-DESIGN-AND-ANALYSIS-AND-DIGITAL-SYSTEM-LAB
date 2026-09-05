@@ -1,4 +1,4 @@
-# Digital Logic Design And Analysis And Digital System Lab
+# Digital Logic Design and Analysis & Digital System Lab
 
 > CSC302: Digital Logic Design and Analysis [DLDA] & CSL301: Digital System
 > Lab [DS Lab] | SE Semester III | Computer Engineering
@@ -7,7 +7,7 @@ Author: Amey Thakur, ORCID 0000-0001-5644-1575
 Co-author: Mega Satish, ORCID 0000-0002-1844-9557
 Institution: Terna Engineering College, University of Mumbai
 Programme: B.E. Computer Engineering, Second Year, Semester III
-Course code: CSC302
+Course codes: CSC302, CSL301
 Licence: CC BY 4.0, attribution required
 Repository created: 6 February 2022
 Work dated: 17 January 2020
@@ -31,6 +31,5 @@ study-materials, textbooks, university-of-mumbai, vhdl, vhdl-coursework
 
 - This repository: https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB
 - Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
-- Project page: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
 - Author: https://github.com/Amey-Thakur
 - Research notes and reflections: https://amey-thakur.github.io/
