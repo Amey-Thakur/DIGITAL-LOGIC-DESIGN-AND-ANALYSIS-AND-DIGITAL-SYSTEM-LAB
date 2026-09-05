@@ -11,3 +11,7 @@ title: "DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB"
 version: 1.0.0
 date-released: 2020-01-17
 url: "https://github.com/Amey-Thakur/DIGITAL-LOGIC-DESIGN-AND-ANALYSIS-AND-DIGITAL-SYSTEM-LAB"
+identifiers:
+  - type: other
+    value: "2022-02-06"
+    description: "Date this repository was created on GitHub."
